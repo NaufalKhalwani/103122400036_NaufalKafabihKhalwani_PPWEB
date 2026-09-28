@@ -1,0 +1,116 @@
+/* =========================
+   GENERAL
+   ========================= */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eef4f8;
+    color: #263238;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* =========================
+   PROFILE CONTAINER
+   ========================= */
+
+.profile-container {
+    width: 80%;
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+
+/* =========================
+   HEADING / SELECTOR
+   ========================= */
+
+h1 {
+    color: #1565c0;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+/* =========================
+   PROFILE CARD
+   ========================= */
+
+.profile-card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card h2 {
+    color: #0d47a1;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+}
+
+.profile-card h3 {
+    color: #1565c0;
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+
+/* =========================
+   FONT PROPERTIES
+   ========================= */
+
+.description {
+    font-size: 17px;
+    font-weight: normal;
+    font-style: italic;
+    line-height: 1.7;
+    text-align: justify;
+}
+
+.highlight {
+    color: #1565c0;
+    font-weight: bold;
+}
+
+
+/* =========================
+   LIST
+   ========================= */
+
+.information-list {
+    background-color: #e3f2fd;
+    padding: 20px 40px;
+    border-radius: 8px;
+}
+
+.information-list li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #37474f;
+}
+
+
+/* =========================
+   QUOTE
+   ========================= */
+
+.quote {
+    margin-top: 25px;
+    padding: 15px;
+    background-color: #1565c0;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    border-radius: 8px;
+}
