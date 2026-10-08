@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#e9f5ff"/>
+  <rect x="90" y="120" width="720" height="270" rx="18" fill="#0d6efd"/>
+  <rect x="150" y="165" width="600" height="155" rx="10" fill="#ffffff"/>
+  <rect x="205" y="205" width="170" height="25" rx="5" fill="#b9dcff"/>
+  <rect x="205" y="250" width="320" height="18" rx="5" fill="#d9eaff"/>
+  <circle cx="650" cy="225" r="42" fill="#198754"/>
+  <rect x="130" y="350" width="640" height="22" rx="11" fill="#084298"/>
+  <text x="450" y="105" text-anchor="middle" font-family="Arial" font-size="42" font-weight="700" fill="#0b5ed7">Praktikum Pemrograman Web</text>
+</svg>

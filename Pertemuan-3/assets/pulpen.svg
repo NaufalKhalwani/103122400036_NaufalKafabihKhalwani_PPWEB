@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f8fafc"/>
+  <g transform="rotate(-28 300 200)">
+    <rect x="145" y="175" width="310" height="48" rx="20" fill="#2563eb"/>
+    <rect x="385" y="175" width="75" height="48" rx="8" fill="#1e40af"/>
+    <polygon points="145,175 95,199 145,223" fill="#94a3b8"/>
+    <rect x="220" y="175" width="65" height="48" fill="#bfdbfe"/>
+    <text x="320" y="207" text-anchor="middle" font-family="Arial" font-size="18" fill="#fff">KULIAH</text>
+  </g>
+</svg>

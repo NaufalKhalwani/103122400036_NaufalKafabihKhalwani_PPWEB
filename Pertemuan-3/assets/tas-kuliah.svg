@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f1f5f9"/>
+  <path d="M180 145 Q180 75 300 75 Q420 75 420 145" fill="none" stroke="#334155" stroke-width="28"/>
+  <rect x="135" y="125" width="330" height="220" rx="28" fill="#1e293b"/>
+  <rect x="175" y="175" width="250" height="110" rx="15" fill="#475569"/>
+  <rect x="235" y="205" width="130" height="25" rx="8" fill="#94a3b8"/>
+  <text x="300" y="270" text-anchor="middle" font-family="Arial" font-size="18" fill="#e2e8f0">TOKO KAMPUS</text>
+</svg>
